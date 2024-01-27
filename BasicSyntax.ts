@@ -31,4 +31,3 @@ mysteryString = null;
 mysteryString = undefined;
 
 console.log('This is where the basic types');
-//
